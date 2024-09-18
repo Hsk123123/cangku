@@ -17,7 +17,7 @@ export default function Index () {
   
   return (
     <View className='index'>
-      <Text>Hello world!</Text>
+      <Text>Hello 第2次推送!</Text>
     </View>
     
   )
